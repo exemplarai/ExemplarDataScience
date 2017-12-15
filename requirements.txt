@@ -1,0 +1,8 @@
+awscli==1.11.185
+pandas==0.20.3
+numpy==1.13.3
+statsmodels==0.8.0
+scikit-learn==0.18.1
+boto3==1.4.7
+simplejson==3.12.0
+
